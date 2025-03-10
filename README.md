@@ -1,1 +1,1 @@
-# -ntern-ntelligence_securitypolicy
+# -Intern-Intelligence_securitypolicy
